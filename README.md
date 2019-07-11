@@ -1,2 +1,1 @@
-# TestReduxServerUploadFile
- 
+# README
